@@ -1,0 +1,646 @@
+% Encoding: UTF-8
+
+@Article{Cas2015,
+  author    = {Casanova, J. and Wang, Z.-Y. and Haase, J. F. and Plenio, M. B.},
+  title     = {Robust dynamical decoupling sequences for individual-nuclear-spin addressing},
+  journal   = {Phys. Rev. A},
+  year      = {2015},
+  volume    = {92},
+  pages     = {042304},
+  issue     = {4},
+  publisher = {American Physical Society},
+}
+
+@Article{Cas17,
+  author    = {Casanova, J. and Wang, Z.-Y. and Plenio, M. B.},
+  title     = {Arbitrary nuclear-spin gates in diamond mediated by a nitrogen-vacancy-center electron spin},
+  journal   = {Phys. Rev. A},
+  year      = {2017},
+  volume    = {96},
+  pages     = {032314},
+  issue     = {3},
+  publisher = {American Physical Society},
+}
+
+@Article{Riedel12-1,
+  author  = {C Jess Riedel and Wojciech H Zurek and Michael Zwolak},
+  title   = {The rise and fall of redundancy in decoherence and quantum Darwinism},
+  journal = {New J. Phys.},
+  year    = {2012},
+  volume  = {14},
+  pages   = {083010},
+}
+
+@Article{zwolak16,
+  author  = {Zwolak, M. and Riedel, C. J. and Zurek, W. H.},
+  title   = {Amplification, Decoherence, and the Acquisition of Information by Spin Environments},
+  journal = {Sci. Rep.},
+  year    = {2016},
+  volume  = {6},
+  pages   = {25277},
+}
+
+@article{Zwolak09,
+  title = {Quantum Darwinism in a Mixed Environment},
+  author = {Zwolak, Michael and Quan, H. T. and Zurek, Wojciech H.},
+  journal = {Phys. Rev. Lett.},
+  volume = {103},
+  issue = {11},
+  pages = {110402},
+  year = {2009},
+}
+
+
+@Article{zur09,
+  author  = {Zurek, W. H.},
+  title   = {Quantum Darwinism},
+  journal = {Nat. Phys.},
+  year    = {2009},
+  volume  = {5},
+}
+
+@Article{DOHERTY20131,
+  author   = {Marcus W. Doherty and Neil B. Manson and Paul Delaney and Fedor Jelezko and JÃ¶rg Wrachtrup and Lloyd C.L. Hollenberg},
+  title    = {The nitrogen-vacancy colour centre in diamond},
+  journal  = {Phys. Rep.},
+  year     = {2013},
+  volume   = {528},
+  pages    = {1 - 45},
+}
+
+@Article{MAUDSLEY1986488,
+  author  = {A.A Maudsley},
+  title   = {Modified Carr-Purcell-Meiboom-Gill sequence for NMR fourier imaging applications},
+  journal = {Journal of Magnetic Resonance (1969)},
+  year    = {1986},
+  volume  = {69},
+  pages   = {488 - 491},
+}
+
+@Article{gull90,
+  author  = {Gullion, T. and Baker, D. B. and Conradi, M. S.},
+  title   = {New, compensated carr-purcell sequences},
+  journal = {J. Magn. Reson.},
+  year    = {1990},
+  volume  = {89},
+}
+
+@Article{PSSA:PSSA200671403,
+  author    = {Jelezko, F. and Wrachtrup, J.},
+  title     = {Single defect centres in diamond: A review},
+  journal   = {physica status solidi (a)},
+  year      = {2006},
+  volume    = {203},
+  pages     = {3207--3225},
+  publisher = {WILEY-VCH Verlag},
+}
+
+@Article{,
+  author  = {Zurek, W. H. and Cucchietti F. M. and Paz J. P.},
+  title   = {Gaussian Decoherence and Gaussian Echo from Spin Environments},
+  journal = {Acta Phys Pol B},
+  year    = {2007},
+  volume  = {38},
+}
+
+@Article{PhysRevA.96.062105,
+  author    = {Pleasance, Graeme and Garraway, Barry M.},
+  title     = {Application of quantum Darwinism to a structured environment},
+  journal   = {Phys. Rev. A},
+  year      = {2017},
+  volume    = {96},
+  pages     = {062105},
+  issue     = {6},
+  publisher = {American Physical Society},
+}
+
+@Article{PhysRevA.95.030101,
+  author    = {Zwolak, Michael and Zurek, Wojciech H.},
+  title     = {Redundancy of einselected information in quantum Darwinism: The irrelevance of irrelevant environment bits},
+  journal   = {Phys. Rev. A},
+  year      = {2017},
+  volume    = {95},
+  pages     = {030101},
+  issue     = {3},
+  publisher = {American Physical Society},
+}
+
+@Article{Mani16,
+  author  = {Galve, Fernando and Zambrini, Roberta and Maniscalco, Sabrina},
+  title   = {Non-Markovianity hinders Quantum Darwinism},
+  journal = {Sci. Rep.},
+  year    = {2016},
+  volume  = {6},
+  pages   = {19607},
+}
+
+@Article{PhysRevA.93.032126,
+  author    = {Riedel, C. Jess and Zurek, Wojciech H. and Zwolak, Michael},
+  title     = {Objective past of a quantum universe: Redundant records of consistent histories},
+  journal   = {Phys. Rev. A},
+  year      = {2016},
+  volume    = {93},
+  pages     = {032126},
+  issue     = {3},
+  publisher = {American Physical Society},
+}
+
+@Article{PhysRevLett.118.120402,
+  author    = {Riedel, C. Jess},
+  title     = {Classical Branch Structure from Spatial Redundancy in a Many-Body Wave Function},
+  journal   = {Phys. Rev. Lett.},
+  year      = {2017},
+  volume    = {118},
+  pages     = {120402},
+  issue     = {12},
+  publisher = {American Physical Society},
+}
+
+@Article{PhysRevLett.98.160501,
+  author    = {Audenaert, K. M. R. and Calsamiglia, J. and Mu\~noz-Tapia, R. and Bagan, E. and Masanes, Ll. and Acin, A. and Verstraete, F.},
+  title     = {Discriminating States: The Quantum Chernoff Bound},
+  journal   = {Phys. Rev. Lett.},
+  year      = {2007},
+  volume    = {98},
+  pages     = {160501},
+  issue     = {16},
+  publisher = {American Physical Society},
+}
+
+@Article{PhysRevLett.117.130502,
+  author   = {Casanova, J. and Wang, Z.-Y. and Plenio, M. B.},
+  title    = {Noise-Resilient Quantum Computing with a Nitrogen-Vacancy Center and Nuclear Spins},
+  journal  = {Phys. Rev. Lett.},
+  year     = {2016},
+  volume   = {117},
+  pages    = {130502},
+  issue    = {13},
+}
+
+@Article{Tam14,
+  author  = {Taminiau, T. H. and Cramer, J. and van der Sar, T. and Dobrovitski, V. V. and Hanson, R.},
+  title   = {Universal control and error correction in multi-qubit spin registers in diamond},
+  journal = {Nat. Nano.},
+  year    = {2014},
+  volume  = {9},
+  pages   = {171–176},
+}
+
+@Article{Childress281,
+  author    = {Childress, L. and Gurudev Dutt, M. V. and Taylor, J. M. and Zibrov, A. S. and Jelezko, F. and Wrachtrup, J. and Hemmer, P. R. and Lukin, M. D.},
+  title     = {Coherent Dynamics of Coupled Electron and Nuclear Spin Qubits in Diamond},
+  journal   = {Science},
+  year      = {2006},
+  volume    = {314},
+  pages     = {281--285},
+  publisher = {American Association for the Advancement of Science},
+}
+
+@Article{Blume-Kohout2005,
+  author   = {Blume-Kohout, Robin and Zurek, Wojciech H.},
+  title    = {A Simple Example of ``Quantum Darwinism'': Redundant Information Storage in Many-Spin Environments},
+  journal  = {Found. Phys.},
+  year     = {2005},
+  volume   = {35},
+  pages    = {1857--1876},
+  day      = {01},
+}
+
+@Article{Ciampini2018,
+  author  = {Ciampini, M. A. and Pinna, G. and Mataloni, P. and Paternostro M.},
+  title   = {Experimental signature of Quantum Darwinism in photonic cluster states},
+  journal = {arxiv},
+  year    = {2018},
+}
+
+@Article{Zhao14,
+  author    = {Zhao, Nan and Wrachtrup, J\"org and Liu, Ren-Bao},
+  title     = {Dynamical decoupling design for identifying weakly coupled nuclear spins in a bath},
+  journal   = {Phys. Rev. A},
+  year      = {2014},
+  volume    = {90},
+  pages     = {032319},
+  issue     = {3},
+  publisher = {American Physical Society},
+}
+
+@Article{Lazariev2017,
+  author  = {Lazariev, Andrii and Arroyo-Camejo, Silvia and Rahane, Ganesh and Kavatamane, Vinaya Kumar and Balasubramanian, Gopalakrishnan},
+  title   = {Dynamical sensitivity control of a single-spin quantum},
+  journal = {Sci. Rep.},
+  year    = {2017},
+  volume  = {7},
+  pages   = {6586},
+}
+
+@Article{Pl17,
+  author    = {Pleasance, Graeme and Garraway, Barry M.},
+  title     = {Application of quantum Darwinism to a structured environment},
+  journal   = {Phys. Rev. A},
+  year      = {2017},
+  volume    = {96},
+  pages     = {062105},
+  issue     = {6},
+  publisher = {American Physical Society},
+}
+
+@Article{Ol04,
+  author    = {Ollivier, Harold and Poulin, David and Zurek, Wojciech H.},
+  title     = {Objective Properties from Subjective Quantum States: Environment as a Witness},
+  journal   = {Phys. Rev. Lett.},
+  year      = {2004},
+  volume    = {93},
+  pages     = {220401},
+  issue     = {22},
+  publisher = {American Physical Society},
+}
+
+@Article{Lam17,
+  author    = {Lampo, Aniello and Tuziemski, Jan and Lewenstein, Maciej and Korbicz, Jaros\l{}aw K.},
+  title     = {Objectivity in the non-Markovian spin-boson model},
+  journal   = {Phys. Rev. A},
+  year      = {2017},
+  volume    = {96},
+  pages     = {012120},
+  issue     = {1},
+  publisher = {American Physical Society},
+}
+
+@Article{Gi15,
+  author    = {Giorgi, Gian Luca and Galve, Fernando and Zambrini, Roberta},
+  title     = {Quantum Darwinism and non-Markovian dissipative dynamics from quantum phases of the spin-1/2 $XX$ model},
+  journal   = {Phys. Rev. A},
+  year      = {2015},
+  volume    = {92},
+  pages     = {022105},
+  issue     = {2},
+  publisher = {American Physical Society},
+}
+
+@Article{Fer15,
+  author  = {BrandÃ£o, Fernando G. S. L. and Piani, Marco and Horodecki, PaweÅ‚},
+  title   = {Generic emergence of classical features in quantum Darwinism},
+  journal = {Nat. Commun.},
+  year    = {2015},
+  volume  = {6},
+},
+}
+
+@Article{PhysRevLett.104.176801,
+  author    = {Burke, A. M. and Akis, R. and Day, T. E. and Speyer, Gil and Ferry, D. K. and Bennett, B. R.},
+  title     = {Periodic Scarred States in Open Quantum Dots as Evidence of Quantum Darwinism},
+  journal   = {Phys. Rev. Lett.},
+  year      = {2010},
+  volume    = {104},
+  pages     = {176801},
+  issue     = {17},
+  publisher = {American Physical Society},
+}
+
+@Article{Laraoui15,
+  author    = {Laraoui, Abdelghani and Pagliero, Daniela and Meriles, Carlos A.},
+  title     = {Imaging nuclear spins weakly coupled to a probe paramagnetic center},
+  journal   = {Phys. Rev. B},
+  year      = {2015},
+  volume    = {91},
+  pages     = {205410},
+  issue     = {20},
+  publisher = {American Physical Society},
+}
+
+@Article{Zwolak14,
+  author    = {Zwolak, Michael and Riedel, C. Jess and Zurek, Wojciech H.},
+  title     = {Amplification, Redundancy, and Quantum Chernoff Information},
+  journal   = {Phys. Rev. Lett.},
+  year      = {2014},
+  volume    = {112},
+  pages     = {140406},
+  issue     = {14},
+  publisher = {American Physical Society},
+}
+
+@Article{Audenaert07,
+  author    = {Audenaert, K. M. R. and Calsamiglia, J. and Mu\~noz-Tapia, R. and Bagan, E. and Masanes, Ll. and Acin, A. and Verstraete, F.},
+  title     = {Discriminating States: The Quantum Chernoff Bound},
+  journal   = {Phys. Rev. Lett.},
+  year      = {2007},
+  volume    = {98},
+  pages     = {160501},
+  issue     = {16},
+  publisher = {American Physical Society},
+}
+
+@Article{Souza4748,
+  author    = {Souza, Alexandre M. and {\'A}lvarez, Gonzalo A. and Suter, Dieter},
+  title     = {Robust dynamical decoupling},
+  journal   = {Philos. Trans. R. Soc. London, A},
+  year      = {2012},
+  volume    = {370},
+  pages     = {4748--4769},
+  publisher = {The Royal Society},
+}
+
+@Article{PhysRevA.80.012328,
+  author    = {S\'anchez, C. M. and Levstein, P. R. and Acosta, R. H. and Chattah, A. K.},
+  title     = {NMR Loschmidt echoes as quantifiers of decoherence in interacting spin systems},
+  journal   = {Phys. Rev. A},
+  year      = {2009},
+  volume    = {80},
+  pages     = {012328},
+  issue     = {1},
+  publisher = {American Physical Society},
+}
+
+@Article{PhysRevLett.96.140604,
+  author    = {Quan, H. T. and Song, Z. and Liu, X. F. and Zanardi, P. and Sun, C. P.},
+  title     = {Decay of Loschmidt Echo Enhanced by Quantum Criticality},
+  journal   = {Phys. Rev. Lett.},
+  year      = {2006},
+  volume    = {96},
+  pages     = {140604},
+  issue     = {14},
+  publisher = {American Physical Society},
+}
+
+@Article{PhysRevA.70.042105,
+  author    = {Gorin, T. and Prosen, T. and Seligman, T. H. and Strunz, W. T.},
+  title     = {Connection between decoherence and fidelity decay in echo dynamics},
+  journal   = {Phys. Rev. A},
+  year      = {2004},
+  volume    = {70},
+  pages     = {042105},
+  issue     = {4},
+  publisher = {American Physical Society},
+}
+
+@Article{PhysRevE.92.052903,
+  author    = {Khitrin, A. K.},
+  title     = {Reversibility of dynamics and multiple-quantum coherences},
+  journal   = {Phys. Rev. E},
+  year      = {2015},
+  volume    = {92},
+  pages     = {052903},
+  issue     = {5},
+  publisher = {American Physical Society},
+}
+
+@Article{Baum85,
+  author  = {J. Baum and M. Munowitz and A. N. Garroway and A. Pines},
+  title   = {Multiple quantum dynamics in solid state NMR},
+  journal = {J. Chem. Phys.},
+  year    = {1985},
+  volume  = {83},
+  pages   = {2015-2025},
+}
+
+@Article{Gaerttner17,
+  author  = {Gärttner, Martin and Bohnet, Justin G. and Safavi-Naini, Arghavan and Wall, Michael L. and Bollinger, John J. and Rey, Ana Maria},
+  title   = {Measuring out-of-time-order correlations and multiple quantum spectra in a trapped-ion quantum magnet},
+  journal = {Nat. Phys.},
+  year    = {2017},
+  volume  = {13},
+  pages   = {781-786},
+}
+
+
+@article{Ollivier04-1,
+   author = {Ollivier, Harold and Poulin, David and Zurek, Wojciech H.},
+   title = {Objective Properties from Subjective Quantum States: Environment as a Witness},
+   journal = {Phys. Rev. Lett.},
+   volume = {93},
+   number = {22},
+   pages = {220401},
+   year = {2004}
+}
+
+@article{Ollivier05-1,
+   author = {Ollivier, Harold and Poulin, David and Zurek, Wojciech H.},
+   title = {Environment as a witness: Selective proliferation of information and emergence of objectivity in a quantum universe},
+   journal = {Phys. Rev. A},
+   volume = {72},
+   number = {4},
+   pages = {042113},
+   year = {2005}
+}
+
+
+@article{Zwolak13-1,
+   author = {Zwolak, Michael and Zurek, Wojciech H.},
+   title = {Complementarity of quantum discord and classically accessible information},
+   journal = {Sci. Rep.},
+   volume = {3},
+   pages = {1729},
+   year = {2013}
+}
+
+@article{Zurek14-1,
+   author = {Zurek, Wojciech H.},
+   title = {Quantum {D}arwinism, classical reality, and the randomness of quantum jumps},
+   journal = {Phys. Today},
+   volume = {67},
+   number = {10},
+   pages = {44--50},
+   year = {2014}
+}
+
+@article{Zwolak17-1,
+  title = {Redundancy of einselected information in quantum Darwinism: The irrelevance of irrelevant environment bits},
+  author = {Zwolak, Michael and Zurek, Wojciech H.},
+  journal = {Phys. Rev. A},
+  volume = {95},
+  pages = {030101},
+  year = {2017},
+}
+
+@article{Zurek81-1,
+   author = {Zurek, W. H.},
+   title = {Pointer basis of quantum apparatus: Into what mixture does the wave packet collapse?},
+   journal = {Phys. Rev. D},
+   volume = {24},
+   number = {6},
+   pages = {1516},
+   year = {1981}
+}
+
+@article{Nizovtsev18,
+  author={A P Nizovtsev and S Ya Kilin and A L Pushkarchuk and V A Pushkarchuk and S A Kuten and O A Zhikol and S Schmitt and T Unden and F
+Jelezko},
+  title={Non-flipping 13 C spins near an NV center in diamond: hyperfine and spatial characteristics by density functional theory simulation of the C 510 [NV]H 252 cluster},
+  journal={New Journal of Physics},
+  volume={20},
+  number={2},
+  pages={023022},
+  year={2018}
+}
+
+@Article{Parker18,
+  author  = {A J Parker and K Jeong and C E Avalos and B J M Hausmann and C C Vassiliou and A Pines and J P King},
+  title   = {Optically-pumped dynamic nuclear hyperpolarization in 13C enriched diamond},
+  journal = {arXiv:1708.00561},
+  year    = {2018},
+}
+
+
+@article{Zurek00-1,
+   author = {Zurek, W. H. },
+   title = {Einselection and decoherence from an information theory perspective},
+   journal = {Ann. Phys.-Leipzig},
+   volume = {9},
+   number = {11-12},
+   pages = {855-864},
+   year = {2000}
+}
+
+@article{Ollivier02-1,
+   author = {Ollivier, Harold and Zurek, Wojciech H.},
+   title = {Quantum Discord: A Measure of the Quantumness of Correlations},
+   journal = {Phys. Rev. Lett.},
+   volume = {88},
+   number = {1},
+   pages = {017901},
+   year = {2002}
+}
+
+@article{Henderson01-1,
+   author = {Henderson, L and Vedral, V},
+   title = {Classical, quantum and total correlations},
+   journal = {J. Phys. A: Math. Gen.},
+   number = {35},
+   pages = {6899},
+   year = {2001}
+}
+
+@article{Ciampini18-1,
+  title = {Experimental signature of quantum Darwinism in photonic cluster states},
+  author = {Ciampini, Mario A. and Pinna, Giorgia and Mataloni, Paolo and Paternostro, Mauro},
+  journal = {Phys. Rev. A},
+  volume = {98},
+  pages = {020101},
+  year = {2018}
+}
+
+
+
+@article{Chen18-1,
+  title = {Experimental signature of quantum Darwinism in photonic cluster states},
+  author = {Chen, Ming-Cheng and Zhong, Han-Seng and Li, Yuan and Wu, Dian and Wang, Xi-Lin and Li, Li and Liu, Nai-Le and Lu, Chao-Yang and Pan, Jian-Wei},
+  journal = {personal correspondence},
+  year = {2018}
+}
+
+@article{Zwolak10-1,
+   author = {Zwolak, Michael and Quan, H. T. and Zurek, Wojciech H.},
+   title = {Redundant imprinting of information in nonideal environments: Objective reality via a noisy channel},
+   journal = {Phys. Rev. A},
+   volume = {81},
+   number = {6},
+   pages = {062110},
+   year = {2010}
+}
+
+@Article{Pawel15,
+  author  = {Brandão, Fernando G. S. L. and Piani, Marco and Horodecki, Paweł},
+  title   = {Generic emergence of classical features in quantum Darwinism},
+  journal = {Nature Communications},
+  year    = {2015},
+  volume  = {6},
+  pages   = {7908},
+}
+
+@Article{Gerardo18,
+  author  = {Knott, Paul A. and Tufarelli, Tomasso and Piani, Marco and Adesso, Gerardo},
+  title   = {Generic emergence of objectivity of observables in infinite dimensions},
+  journal = {arXiv},
+  year    = {2018},
+  volume  = {1802},
+  pages   = {05719},
+}
+
+@Article{Neumann542,
+  author   = {Neumann, Philipp and Beck, Johannes and Steiner, Matthias and Rempp, Florian and Fedder, Helmut and Hemmer, Philip R. and Wrachtrup, J{\"o}rg and Jelezko, Fedor},
+  title    = {Single-Shot Readout of a Single Nuclear Spin},
+  journal  = {Science},
+  year     = {2010},
+  volume   = {329},
+  number   = {5991},
+  pages    = {542--544},
+  issn     = {0036-8075},
+  abstract = {Projective measurement of single electron and nuclear spins has evolved from a gedanken experiment to a problem relevant for applications in atomic-scale technologies like quantum computing. Although several approaches allow for detection of a spin of single atoms and molecules, multiple repetitions of the experiment that are usually required for achieving a detectable signal obscure the intrinsic quantum nature of the spin{\textquoteright}s behavior. We demonstrated single-shot, projective measurement of a single nuclear spin in diamond using a quantum nondemolition measurement scheme, which allows real-time observation of an individual nuclear spin{\textquoteright}s state in a room-temperature solid. Such an ideal measurement is crucial for realization of, for example, quantum error correction protocols in a quantum register.},
+}
+
+@Article{Nogues99,
+  author  = {Nogues, G. and Rauschenbeutel, A. and Osnaghi, S. and Brune, M. and Raimond, J. M. and Haroche, S.},
+  title   = {Seeing a single photon without destroying it},
+  journal = {Nature},
+  year    = {1999},
+  volume  = {400},
+  number  = {239},
+}
+
+@Article{Gleyzes07,
+  author  = {Gleyzes, Sébastien and Kuhr, Stefan and Guerlin, Christine and Bernu, Julien and Deléglise, Samuel and Busk Hoff, Ulrich and Brune, Michel and Raimond, Jean-Michel and Haroche, Serge},
+  title   = {Quantum jumps of light recording the birth and death of a photon in a cavity},
+  journal = {Nature},
+  year    = {2007},
+  volume  = {446},
+  number  = {297},
+}
+
+@Article{Lupascu07,
+  author  = {Lupascu, A. and Saito, S. and Picot, T. and de Groot, P. C. and Harmans, C. J. P. M. and Mooij, J. E.},
+  title   = {Quantum non-demolition measurement of a superconducting two-level system},
+  journal = {Nature Physics},
+  year    = {2007},
+  volume  = {3},
+  number  = {119},
+}
+
+@Article{Hirose16,
+  author  = {Hirose, Masashi and Cappellaro, Paola},
+  title   = {Coherent feedback control of a single qubit in diamond},
+  journal = {Nature},
+  year    = {2016},
+  volume  = {532},
+  number  = {77},
+}
+
+@Article{Zaiser16,
+  author  = {Zaiser, Sebastian and Rendler, Torsten and Jakobi, Ingmar and Wolf, Thomas and Lee, Sang-Yun and Wagner, Samuel and Bergholm, Ville and Schulte-Herbrüggen, Thomas and Neumann, Philipp and Wrachtrup, Jörg},
+  title   = {Enhancing quantum sensing sensitivity by a quantum memory},
+  journal = {Nature Communications},
+  year    = {2016},
+  volume  = {7},
+  number  = {12279},
+}
+
+@Article{Taminiau14,
+  author  = {Taminiau, T. H. and Cramer, J. and van der Sar, T. and Dobrovitski, V. V. and Hanson, R.},
+  title   = {Universal control and error correction in multi-qubit spin registers in diamond},
+  journal = {Nature Nanotechnology},
+  year    = {2014},
+}
+
+@Article{Zurek81,
+  author    = {Zurek, W. H.},
+  title     = {Pointer basis of quantum apparatus: Into what mixture does the wave packet collapse?},
+  journal   = {Phys. Rev. D},
+  year      = {1981},
+  volume    = {24},
+  pages     = {1516--1525},
+  month     = {Sep},
+  doi       = {10.1103/PhysRevD.24.1516},
+  issue     = {6},
+  numpages  = {0},
+  publisher = {American Physical Society},
+}
+
+@Article{Holevo73,
+  author  = {Holevo, A. S.},
+  title   = {Bounds for the Quantity of Information Transmitted by a Quantum Communication Channel},
+  journal = {Problems of Information Transmission},
+  year    = {1973},
+  volume  = {9},
+  pages   = {177--183},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

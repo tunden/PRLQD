@@ -1,0 +1,70 @@
+\begin{thebibliography}{5}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{Audenaert et~al.}(2007)\citenamefont{Audenaert,
+  Calsamiglia, Mu\~noz Tapia, Bagan, Masanes, Acin, and
+  Verstraete}}]{Audenaert07}
+\bibinfo{author}{\bibfnamefont{K.~M.~R.} \bibnamefont{Audenaert}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Calsamiglia}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Mu\~noz Tapia}},
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Bagan}},
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Masanes}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Acin}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Verstraete}},
+  \bibinfo{journal}{Phys. Rev. Lett.} \textbf{\bibinfo{volume}{98}},
+  \bibinfo{pages}{160501} (\bibinfo{year}{2007}).
+
+\bibitem[{\citenamefont{Zwolak et~al.}(2014)\citenamefont{Zwolak, Riedel, and
+  Zurek}}]{Zwolak14}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Zwolak}},
+  \bibinfo{author}{\bibfnamefont{C.~J.} \bibnamefont{Riedel}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{W.~H.} \bibnamefont{Zurek}},
+  \bibinfo{journal}{Phys. Rev. Lett.} \textbf{\bibinfo{volume}{112}},
+  \bibinfo{pages}{140406} (\bibinfo{year}{2014}).
+
+\bibitem[{\citenamefont{Zwolak et~al.}(2016)\citenamefont{Zwolak, Riedel, and
+  Zurek}}]{zwolak16}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Zwolak}},
+  \bibinfo{author}{\bibfnamefont{C.~J.} \bibnamefont{Riedel}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{W.~H.} \bibnamefont{Zurek}},
+  \bibinfo{journal}{Sci. Rep.} \textbf{\bibinfo{volume}{6}},
+  \bibinfo{pages}{25277} (\bibinfo{year}{2016}).
+
+\bibitem[{\citenamefont{Nizovtsev et~al.}(2018)\citenamefont{Nizovtsev, Kilin,
+  Pushkarchuk, Pushkarchuk, Kuten, Zhikol, Schmitt, Unden, and
+  Jelezko}}]{Nizovtsev18}
+\bibinfo{author}{\bibfnamefont{A.~P.} \bibnamefont{Nizovtsev}},
+  \bibinfo{author}{\bibfnamefont{S.~Y.} \bibnamefont{Kilin}},
+  \bibinfo{author}{\bibfnamefont{A.~L.} \bibnamefont{Pushkarchuk}},
+  \bibinfo{author}{\bibfnamefont{V.~A.} \bibnamefont{Pushkarchuk}},
+  \bibinfo{author}{\bibfnamefont{S.~A.} \bibnamefont{Kuten}},
+  \bibinfo{author}{\bibfnamefont{O.~A.} \bibnamefont{Zhikol}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Schmitt}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Unden}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Jelezko}},
+  \bibinfo{journal}{New Journal of Physics} \textbf{\bibinfo{volume}{20}},
+  \bibinfo{pages}{023022} (\bibinfo{year}{2018}).
+
+\bibitem[{\citenamefont{Parker et~al.}(2018)\citenamefont{Parker, Jeong,
+  Avalos, Hausmann, Vassiliou, Pines, and King}}]{Parker18}
+\bibinfo{author}{\bibfnamefont{A.~J.} \bibnamefont{Parker}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Jeong}},
+  \bibinfo{author}{\bibfnamefont{C.~E.} \bibnamefont{Avalos}},
+  \bibinfo{author}{\bibfnamefont{B.~J.~M.} \bibnamefont{Hausmann}},
+  \bibinfo{author}{\bibfnamefont{C.~C.} \bibnamefont{Vassiliou}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Pines}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{J.~P.} \bibnamefont{King}},
+  \bibinfo{journal}{arXiv:1708.00561}  (\bibinfo{year}{2018}).
+
+\end{thebibliography}

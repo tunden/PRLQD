@@ -1,0 +1,112 @@
+\documentclass[10pt,a4paper,roman]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+\usepackage[english]{babel}
+
+
+% moderncv themes
+\moderncvstyle{classic} 
+% style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{red}                              
+% color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}
+
+\usepackage{ragged2e} 
+
+% adjust the page margins
+\usepackage[scale=0.78]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+\name{Thomas}{Unden}
+\title{Letter to the editors}                               % optional, remove / comment the line if not wanted
+\address{(Corresponding Author)\\Institute for Quantum Optics\\University of Ulm}{Albert-Einstein-Allee 11}{89081 Ulm, Germany}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+\phone[fixed]{+49 731 50-15702}                   % optional, remove / comment the line if not wanted
+\email{thomas.unden@uni-ulm.de}                               % optional, remove / comment the line if not wanted
+\homepage{www.uni-ulm.de/en/nawi/institute-for-quantum-optics}                         % optional, remove / comment the line if not wanted
+%\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
+%\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+%\quote{Some quote}                                 % optional, remove / comment the line if not wanted
+
+% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%-----       letter       ---------------------------------------------------------
+% recipient data
+\recipient{Submission to PRL}{\mbox{}}
+\date{\today}
+\opening{Dear Editors,}
+\closing{Sincerely yours}
+%\enclosure[Adjunto]{CV}          % use an optional argument to use a string other than "Enclosure", or redefine \enclname
+\makelettertitle
+
+\justify
+We hereby submit our manuscript, ``\emph{Revealing the emergence of the classicality in nitrogen-vacancy centers},'' by Thomas Unden, Daniel Louzon, Michael Zwolak, Wojciech H. Zurek and Fedor Jelezko, for your consideration as a letter in Physical Review Letters. 
+
+We report the first laboratory observation of the natural emergence of classical objectivity from the underlying quantum substrate. We experimentally examine a single electron spin -- the central spin/system -- interacting with a nuclear spin environment in diamond at room temperature (i.e., NV center surrounded by a ensemble of $^{13}$C). To enable the observation of classical objectivity, the challenge is to obtain knowledge of what the environment knows about the system. This is true in any setting, but especially hard in natural settings where the environment components are not engineered but rather are spatially and energetically (e.g., the coupling strengths) uncontrolled, as well as have stray interactions.
+
+We solve these problems by developing a novel control scheme based on dynamical decoupling that allows us to identify and selectively address individual spins in the environment. This makes it possible to prepare an initial state where the system is in a quantum -- ``weird'' -- superposition and out of equilibrium with the environment, exactly the setting in our everyday world should a, e.g., microscopic object be in a superposition that then decoheres by the photon environment. We then allow the system and environment to evolve under their intrinsic Hamiltonian and, later, we observe the state of the system and the environment. We see the appearance of redundant information about the pointer states of the system within the components of the environment. This redundant information allows observers to independently find out about the state of the system indirectly, i.e., without perturbing it. We have thus observed the process of the pointer states becoming the effectively classical states of the system. 
+
+We believe our work is of both fundamental and technical interest (the novel control scheme, for instance, allows one to prepare artificial states, such as GHZ states between the system and the environment, which are important to metrology. We also show how this is done and implement it in NV centers). 
+
+
+Thank you in advance for your consideration. We are looking forward to hearing from you.  
+\bigskip
+
+Sincerely yours,\bigskip
+
+Thomas Unden, on behalf of all coauthors
+
+
+\clearpage
+\textbf{List of potential referees:}\bigskip
+
+
+Jiangfeng Du\\
+Department of Modern Physics\\
+University of Science and Technology of China\\
+Hefei, Anhui, 230026, PR China\\
+Email: qcmr@ustc.edu.cn\bigskip
+
+
+David Awschalom\\
+Institute for molecular engineering\\
+University of Chicago\\
+Eckhardt Research Center, 5640 South Ellis Avenue, Chicago, IL 60637\\
+Email: awsch@uchicago.edu\bigskip
+
+
+Gerardo Adesso\\
+School of Mathematical Sciences\\
+The University of Nottingham\\
+University Park, Nottingham, NG7 2RD \\
+Email: gerardo.adesso@nottingham.ac.uk\bigskip
+
+Marco Piani\\
+Department of Physics\\
+University of Strathclyde\\
+107 Rottenrow East, Glasgow, G4 0NG, U.K. \\
+Email: marco.piani@strath.ac.uk\\
+
+%Ronald Hanson\\
+%Kavli Institute of Nanoscience Delft\\
+%Delft University of Technology\\
+%Lorentzweg 1, 2628 CJ Delft, The Netherlands\\
+%Email: r.hanson@tudelft.nl\\
+%Internet: \url{http://www.tnw.tudelft.nl/index.php?id=36431&L=1}
+
+\end{document}

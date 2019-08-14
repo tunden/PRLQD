@@ -1,0 +1,3 @@
+cd D:\wichtig\PRLsubmission\190907PRLresubmission
+
+latexdiff   QDNVold.tex  QDNV.tex >  out.tex
